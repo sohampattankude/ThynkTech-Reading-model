@@ -1,0 +1,49 @@
+# Reading Evaluation Module - Requirements
+# ThynkChat INDIA V2 - Internship Assignment
+# Python 3.9+
+
+# ==================== Web Framework ====================
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+python-multipart==0.0.9
+
+# ==================== Speech Recognition (ASR) ====================
+openai-whisper==20231117
+
+# ==================== Audio Processing ====================
+pydub==0.25.1
+soundfile==0.12.1
+
+# ==================== Text Processing & Matching ====================
+rapidfuzz==3.6.1
+
+# ==================== Additional Dependencies ====================
+# Required by Whisper
+torch>=2.0.0
+numpy>=1.21.0
+
+# HTTP client (for potential API integrations)
+httpx==0.26.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# ==================== Development Dependencies ====================
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.23.3
+
+# Code quality
+black==23.12.1
+isort==5.13.2
+flake8==7.0.0
+
+# Type checking
+mypy==1.8.0
+
+# ==================== Optional: FFmpeg ====================
+# Note: FFmpeg is required for pydub to handle MP3 files
+# Install FFmpeg separately on your system:
+# - Windows: Download from https://ffmpeg.org/download.html
+# - macOS: brew install ffmpeg
+# - Linux: sudo apt install ffmpeg

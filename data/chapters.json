@@ -1,0 +1,29 @@
+{
+  "chapters": {
+    "chapter_1": {
+      "id": "chapter_1",
+      "title": "Introduction to Reading",
+      "text": "Reading is one of the most important skills that we learn in school. It helps us understand the world around us and opens doors to new knowledge and experiences. When we read, our brain processes words and creates meaning from them. Good readers practice every day and enjoy exploring new books and stories."
+    },
+    "chapter_2": {
+      "id": "chapter_2",
+      "title": "The Water Cycle",
+      "text": "The water cycle is the continuous movement of water on, above, and below the surface of the Earth. Water evaporates from oceans, lakes, and rivers into the atmosphere. When the water vapor cools, it condenses into clouds. Eventually, the water falls back to Earth as precipitation, such as rain or snow. This cycle repeats endlessly, ensuring that water is constantly recycled on our planet."
+    },
+    "chapter_3": {
+      "id": "chapter_3",
+      "title": "Healthy Habits",
+      "text": "Maintaining healthy habits is essential for a happy and productive life. Eating nutritious foods gives our body the energy it needs. Regular exercise keeps our muscles and heart strong. Getting enough sleep helps our brain rest and recover. Drinking plenty of water keeps us hydrated throughout the day. These simple habits can make a big difference in how we feel."
+    },
+    "chapter_4": {
+      "id": "chapter_4",
+      "title": "The Solar System",
+      "text": "Our solar system consists of the Sun and everything that orbits around it. There are eight planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Earth is the third planet from the Sun and the only one known to support life. The planets vary greatly in size, composition, and distance from the Sun."
+    },
+    "chapter_5": {
+      "id": "chapter_5",
+      "title": "The Importance of Trees",
+      "text": "Trees are vital to life on Earth. They produce oxygen through photosynthesis and absorb carbon dioxide from the atmosphere. Trees provide shelter and food for countless species of animals and insects. They help prevent soil erosion and maintain the water cycle. Forests are often called the lungs of our planet because of their crucial role in maintaining air quality."
+    }
+  }
+}
